@@ -12,6 +12,7 @@ This is the official documentation for the PinIdea ASIC X11 Miner DR-1.
     - Frequently Asked Questions about DR-1
 - [Hardware Specs](Specs.md)
     - Technical specifications about the DR-1
+- [Latest Release](https://github.com/PinIdea/ASIC-X11-Miner/releases)
 
 ## Contributions
 
