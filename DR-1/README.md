@@ -15,6 +15,10 @@ This is the official documentation for the PinIdea ASIC X11 Miner DR-1.
 - [Latest Release](https://github.com/PinIdea/ASIC-X11-Miner/releases)
     - Latest release of the mining software for the DR-1
 
+## Notes for central mining pool users
+
+Our miners are bit too fast for general central mining pools. Ask the mining operator to open a port with ``jobRebroadcastTimeout`` is ``4`` instead of default ``55``.
+
 ## Slack Channel
 
 - For a lively chat style discussion, join us on the ["Unofficial" Dash Chat Slack](https://digitalcash.signup.team/) and add yourself to channel [#asic_miners](https://digitalcash.slack.com/archives/asic_miners)
