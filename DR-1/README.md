@@ -15,6 +15,10 @@ This is the official documentation for the PinIdea ASIC X11 Miner DR-1.
 - [Latest Release](https://github.com/PinIdea/ASIC-X11-Miner/releases)
     - Latest release of the mining software for the DR-1
 
+## Slack Channel
+
+- For a lively chat style discussion, join us on the ["Unofficial" Dash Chat Slack](https://digitalcash.signup.team/) and add yourself to channel [#asic_miners](https://digitalcash.slack.com/archives/asic_miners)
+
 ## Contributions
 
 If you have anything to fix or details to add, first [file an issue](https://github.com/PinIdea/ASIC-X11-Miner/issues) on GitHub to see if it is likely to be accepted, then file a pull request with your change (one PR per issue).
