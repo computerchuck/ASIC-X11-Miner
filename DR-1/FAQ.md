@@ -9,7 +9,7 @@ No. A power supply unit is not included, and you will need to provide an ATX PSU
 
 No. The mining software can run on Windows, Linux (Ubuntu) and [Raspbian](http://www.raspbian.org/) on Rasperry Pi. So either one would work.
 
-### Can I use a cgminer downloaded from somewhere else other than this repo?
+### Can I use a cgminer downloaded from somewhere other than this repo?
 
 No. You can only use the binaries provided by us to mining X11 coins. The current binary we are using is forked from cgminer and custom made to be able to talk with our miners. Downloading from other sources won't have the code we added. 
 
